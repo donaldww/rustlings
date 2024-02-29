@@ -2,7 +2,7 @@ repo_name: donaldww/rustlings
 report_id: c18fed250973aa57519e452bbe01feeb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:18:41+00:00'
+timestamp: '2024-02-29T18:11:07+00:00'
 requested_by: donaldww
 provider: github
 branch: main
@@ -80,7 +80,7 @@ tools:
   last_updated_by: Ali Afsharzadeh
   last_updated_on: 2023-03-30 16:23:22.000000000 Z
 - name: Nix
-  description: 'A package manager for Linux and other Unix systems '
+  description: A package manager for Linux and other Unix systems
   website_url: http://nixos.org/nix
   license: LGPL-2.1
   open_source: true
